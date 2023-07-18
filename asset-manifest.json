@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/konnitiha3/mandelplot/static/css/main.657cb3ea.css",
+    "main.js": "/konnitiha3/mandelplot/static/js/main.344f38d9.js",
+    "static/js/787.85c35ade.chunk.js": "/konnitiha3/mandelplot/static/js/787.85c35ade.chunk.js",
+    "index.html": "/konnitiha3/mandelplot/index.html",
+    "main.657cb3ea.css.map": "/konnitiha3/mandelplot/static/css/main.657cb3ea.css.map",
+    "main.344f38d9.js.map": "/konnitiha3/mandelplot/static/js/main.344f38d9.js.map",
+    "787.85c35ade.chunk.js.map": "/konnitiha3/mandelplot/static/js/787.85c35ade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657cb3ea.css",
+    "static/js/main.344f38d9.js"
+  ]
+}
